@@ -11,12 +11,12 @@ public class ConsoleLog
                 Console.WriteLine($"Comment: {message}");
                 break;
             case "Warning":
-                Console.ForegroundColor = ConsoleColor.Red;
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"Warning: {message}");
 
                 break;
             case "Error":
-                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"Error: {message}");
                 Environment.Exit(0);
                 break;

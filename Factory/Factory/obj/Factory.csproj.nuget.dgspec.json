@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Factory\\Factory\\Factory.csproj": {}
+    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Factory\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Factory\\Factory\\Factory.csproj": {
+    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Factory\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Factory\\Factory\\Factory.csproj",
+        "projectUniqueName": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Factory\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Factory\\Factory\\Factory.csproj",
+        "projectPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Factory\\Factory\\Factory.csproj",
         "packagesPath": "C:\\Users\\ruizh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Factory\\Factory\\obj\\",
+        "outputPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Factory\\Factory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruizh\\AppData\\Roaming\\NuGet\\NuGet.Config",

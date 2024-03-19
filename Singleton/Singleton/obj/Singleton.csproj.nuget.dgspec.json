@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Singleton\\Singleton\\Singleton.csproj": {}
+    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Singleton\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Singleton\\Singleton\\Singleton.csproj": {
+    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Singleton\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Singleton\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Singleton\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Singleton\\Singleton\\Singleton.csproj",
+        "projectPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Singleton\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\ruizh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Singleton\\Singleton\\obj\\",
+        "outputPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Singleton\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruizh\\AppData\\Roaming\\NuGet\\NuGet.Config",

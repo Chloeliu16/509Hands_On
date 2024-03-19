@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Static\\Static\\Static.csproj": {}
+    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Static\\Static\\Static.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Static\\Static\\Static.csproj": {
+    "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Static\\Static\\Static.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Static\\Static\\Static.csproj",
+        "projectUniqueName": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Static\\Static\\Static.csproj",
         "projectName": "Static",
-        "projectPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Static\\Static\\Static.csproj",
+        "projectPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Static\\Static\\Static.csproj",
         "packagesPath": "C:\\Users\\ruizh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Static\\Static\\obj\\",
+        "outputPath": "C:\\Users\\ruizh\\Desktop\\509SD\\作业\\Hand_On9\\Static\\Static\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruizh\\AppData\\Roaming\\NuGet\\NuGet.Config",
